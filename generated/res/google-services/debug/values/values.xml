@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">1084159526670</string>
+    <string name="google_api_key" translatable="false">AIzaSyBhFmpQknU056b33iYMaLiD82C5QNoWs64</string>
+    <string name="google_app_id" translatable="false">1:1084159526670:android:a4cd8157e11604f3beb95f</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBhFmpQknU056b33iYMaLiD82C5QNoWs64</string>
+    <string name="google_storage_bucket" translatable="false">ento001.firebasestorage.app</string>
+    <string name="project_id" translatable="false">ento001</string>
+</resources>
